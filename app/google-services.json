@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "471456670432",
+    "firebase_url": "https://authandmessaging-7f3dd.firebaseio.com",
+    "project_id": "authandmessaging-7f3dd",
+    "storage_bucket": "authandmessaging-7f3dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471456670432:android:885c5c814f7d97c0",
+        "android_client_info": {
+          "package_name": "com.tiara.authandmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471456670432-elkkvib4hg8s32ac7ia6o3poqg8ve6nr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tiara.authandmessaging",
+            "certificate_hash": "d0c892f1465d1ba904464e84d906aabee22575ca"
+          }
+        },
+        {
+          "client_id": "471456670432-57gk9rv56cf3434cpfh6s06e7tu4dj5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKAOrVaf1M8CcRVqDA_iYtIT6d5KOkz_8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471456670432-57gk9rv56cf3434cpfh6s06e7tu4dj5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
